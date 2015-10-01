@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WordList>
+  <word use="true">
+    <key>love</key>
+    <value>&lt;3</value>
+  </word>
+  <word use="true">
+    <key>at</key>
+    <value>@</value>
+  </word>
+  <word use="true">
+    <key>am</key>
+    <value>m</value>
+  </word>
+  <word use="true">
+    <key>have</key>
+    <value>hav</value>
+  </word>
+  <word use="true">
+    <key>would</key>
+    <value>wud</value>
+  </word>
+  <word use="true">
+    <key>wre</key>
+    <value>wer</value>
+  </word>
+  <word use="true">
+    <key>how</key>
+    <value>hw</value>
+  </word>
+  <word use="true">
+    <key>anyone</key>
+    <value>ne1</value>
+  </word>
+  <word use="true">
+    <key>are</key>
+    <value>R</value>
+  </word>
+  <word use="true">
+    <key>gone</key>
+    <value>gon</value>
+  </word>
+  <word use="true">
+    <key>expect</key>
+    <value>xpct</value>
+  </word>
+    <word use="true">
+    <key>expected</key>
+    <value>xpctd</value>
+  </word>
+    <word use="true">
+    <key>expects</key>
+    <value>xpcts</value>
+  </word>
+  <word use="true">
+    <key>accept</key>
+    <value>acpt</value>
+  </word>
+  <word use="true">
+    <key>excess</key>
+    <value>xs</value>
+  </word>
+  <word use="true">
+    <key>tooth</key>
+    <value>2th</value>
+  </word>
+  <word use="true">
+    <key>clock</key>
+    <value>clk</value>
+  </word>
+  <word use="true">
+    <key>bike</key>
+    <value>byk</value>
+  </word>
+  <word use="true">
+    <key>fast</key>
+    <value>fst</value>
+  </word>
+  <word use="true">
+    <key>bloody</key>
+    <value>bldy</value>
+  </word>
+  <word use="true">
+    <key>nothing</key>
+    <value>ntin</value>
+  </word>
+    <word use="true">
+    <key>message</key>
+    <value>msg</value>
+  </word>
+    <word use="true">
+    <key>messages</key>
+    <value>msgs</value>
+  </word>
+  <word use="true">
+    <key>messaging</key>
+    <value>msgn</value>
+  </word>
+  <word use="true">
+    <key>fine</key>
+    <value>5n</value>
+  </word>
+  <word use="true">
+    <key>when</key>
+    <value>wen</value>
+  </word>
+  <word use="true">
+    <key>now</key>
+    <value>nw</value>
+  </word>
+  <word use="true">
+    <key>only</key>
+    <value>nly</value>
+  </word>
+  <word use="true">
+    <key>down</key>
+    <value>dwn</value>
+  </word>
+  <word use="true">
+    <key>hour</key>
+    <value>hr</value>
+  </word>
+  <word use="true">
+    <key>night</key>
+    <value>nite</value>
+  </word>
+  <word use="true">
+    <key>light</key>
+    <value>lite</value>
+  </word>
+  <word use="true">
+    <key>wait</key>
+    <value>w8</value>
+  </word>
+  <word use="true">
+    <key>ate</key>
+    <value>8</value>
+  </word>
+  <word use="true">
+    <key>without</key>
+    <value>w/o</value>
+  </word>
+  <word use="true">
+    <key>cause</key>
+    <value>cuz</value>
+  </word>
+  <word use="true">
+    <key>why</key>
+    <value>Y</value>
+  </word>
+  <word use="true">
+    <key>you</key>
+    <value>U</value>
+  </word>
+  <word use="true">
+    <key>there</key>
+    <value>der</value>
+  </word>
+  <word use="true">
+    <key>dont</key>
+    <value>dun</value>
+  </word>
+  <word use="true">
+    <key>great</key>
+    <value>gr8</value>
+  </word>
+  <word use="true">
+    <key>though</key>
+    <value>thou</value>
+  </word>
+  <word use="true">
+    <key>good</key>
+    <value>gud</value>
+  </word>
+  <word use="true">
+    <key>to</key>
+    <value>2</value>
+  </word>
+  <word use="true">
+    <key>for</key>
+    <value>4</value>
+  </word>
+  <word use="true">
+    <key>be</key>
+    <value>B</value>
+  </word>
+  <word use="true">
+    <key>one</key>
+    <value>1</value>
+  </word>
+  <word use="true">
+    <key>come</key>
+    <value>cm</value>
+  </word>
+  <word use="true">
+    <key>shall</key>
+    <value>shal</value>
+  </word>
+  <word use="true">
+    <key>your</key>
+    <value>ur</value>
+  </word>
+  <word use="true">
+    <key>from</key>
+    <value>4m</value>
+  </word>
+  <word use="true">
+    <key>plus</key>
+    <value>+</value>
+  </word>
+  <word use="true">
+    <key>equal</key>
+    <value>=</value>
+  </word>
+  <word use="true">
+    <key>what</key>
+    <value>wat</value>
+  </word>
+  <word use="true">
+    <key>know</key>
+    <value>noe</value>
+  </word>
+  <word use="true">
+    <key>and</key>
+    <value>&amp;</value>
+  </word>
+  <word use="true">
+    <key>before</key>
+    <value>B4</value>
+  </word>
+  <word use="true">
+    <key>youll</key>
+    <value>Ull</value>
+  </word>
+  <word use="true">
+    <key>someone</key>
+    <value>sum1</value>
+  </word>
+  <word use="true">
+    <key>could</key>
+    <value>cud</value>
+  </word>
+  <word use="true">
+    <key>something</key>
+    <value>sumthin</value>
+  </word>
+  <word use="true">
+    <key>anything</key>
+    <value>anythin</value>
+  </word>
+  <word use="true">
+    <key>tomorrow</key>
+    <value>2mrw</value>
+  </word>
+  <word use="true">
+    <key>become</key>
+    <value>bcum</value>
+  </word>
+  <word use="true">
+    <key>everything</key>
+    <value>evrythn</value>
+  </word>
+  <word use="true">
+    <key>late</key>
+    <value>L8</value>
+  </word>
+  <word use="true">
+    <key>later</key>
+    <value>l8r</value>
+  </word>
+  <word use="true">
+    <key>should</key>
+    <value>shud</value>
+  </word>
+  <word use="true">
+    <key>shouldnt</key>
+    <value>shudnt</value>
+  </word>
+  <word use="true">
+    <key>will</key>
+    <value>wil</value>
+  </word>
+  <word use="true">
+    <key>that</key>
+    <value>dat</value>
+  </word>
+  <word use="true">
+    <key>thanks</key>
+    <value>thnx</value>
+  </word>
+  <word use="true">
+    <key>extreme</key>
+    <value>xtrem</value>
+  </word>
+  <word use="true">
+    <key>everyone</key>
+    <value>evry1</value>
+  </word>
+  <word use="true">
+    <key>enough</key>
+    <value>enf</value>
+  </word>
+  <word use="true">
+    <key>wouldnt</key>
+    <value>wudnt</value>
+  </word>
+  <word use="true">
+    <key>because</key>
+    <value>bcuz</value>
+  </word>
+  <word use="true">
+    <key>even</key>
+    <value>e1</value>
+  </word>
+  <word use="true">
+    <key>first</key>
+    <value>1st</value>
+  </word>
+  <word use="true">
+    <key>second</key>
+    <value>2nd</value>
+  </word>
+  <word use="true">
+    <key>third</key>
+    <value>3rd</value>
+  </word>
+  <word use="true">
+    <key>about</key>
+    <value>abt</value>
+  </word>
+  <word use="true">
+    <key>got</key>
+    <value>gt</value>
+  </word>
+  <word use="true">
+    <key>friend</key>
+    <value>frnd</value>
+  </word>
+  <word use="true">
+    <key>friends</key>
+    <value>frnds</value>
+  </word>
+  <word use="true">
+    <key>between</key>
+    <value>btwn</value>
+  </word>
+  <word use="true">
+    <key>get</key>
+    <value>gt</value>
+  </word>
+  <word use="true">
+    <key>worry</key>
+    <value>wry</value>
+  </word>
+  <word use="true">
+    <key>both</key>
+    <value>bth</value>
+  </word>
+  <word use="true">
+    <key>yourself</key>
+    <value>urslf</value>
+  </word>
+  <word use="true">
+    <key>other</key>
+    <value>odr</value>
+  </word>
+  <word use="true">
+    <key>station</key>
+    <value>stn</value>
+  </word>
+  <word use="true">
+    <key>enjoy</key>
+    <value>njoy</value>
+  </word>
+  <word use="true">
+    <key>please</key>
+    <value>plz</value>
+  </word>
+  <word use="true">
+    <key>college</key>
+    <value>colg</value>
+  </word>
+  <word use="true">
+    <key>lecture</key>
+    <value>lec</value>
+  </word>
+  <word use="true">
+    <key>inform</key>
+    <value>infrm</value>
+  </word>
+  <word use="true">
+    <key>whatever</key>
+    <value>watver</value>
+  </word>
+  <word use="true">
+    <key>yesterday</key>
+    <value>yest</value>
+  </word>
+  <word use="true">
+    <key>journey</key>
+    <value>jrny</value>
+  </word>
+  <word use="true">
+    <key>mark</key>
+    <value>mrk</value>
+  </word>
+  <word use="true">
+    <key>account</key>
+    <value>acnt</value>
+  </word>
+  <word use="true">
+    <key>accounts</key>
+    <value>acnts</value>
+  </word>
+  <word use="true">
+    <key>sweetheart</key>
+    <value>swthrt</value>
+  </word>
+  <word use="true">
+    <key>reach</key>
+    <value>rch</value>
+  </word>
+  <word use="true">
+    <key>password</key>
+    <value>pswd</value>
+  </word>
+  <word use="true">
+    <key>together</key>
+    <value>2gthr</value>
+  </word>
+  <word use="true">
+    <key>never</key>
+    <value>nvr</value>
+  </word>
+  <word use="true">
+    <key>mind</key>
+    <value>mnd</value>
+  </word>
+  <word use="true">
+    <key>bring</key>
+    <value>brng</value>
+  </word>
+  <word use="true">
+    <key>problem</key>
+    <value>prblm</value>
+  </word>
+  <word use="true">
+    <key>most</key>
+    <value>mst</value>
+  </word>
+  <word use="true">
+    <key>mostly</key>
+    <value>mstly</value>
+  </word>
+  <word use="true">
+    <key>book</key>
+    <value>bk</value>
+  </word>
+  <word use="true">
+    <key>want</key>
+    <value>wnt</value>
+  </word>
+  <word use="true">
+    <key>wanted</key>
+    <value>wntd</value>
+  </word>
+  <word use="true">
+    <key>home</key>
+    <value>hme</value>
+  </word>
+  <word use="true">
+    <key>remember</key>
+    <value>rmbr</value>
+  </word>
+  <word use="true">
+    <key>remembers</key>
+    <value>rmbrs</value>
+  </word>
+  <word use="true">
+    <key>remembered</key>
+    <value>rmbrd</value>
+  </word>
+  <word use="true">
+    <key>congratulations</key>
+    <value>congo</value>
+  </word>
+  <word use="true">
+    <key>congratulation</key>
+    <value>congo</value>
+  </word>
+  <word use="true">
+    <key>but</key>
+    <value>bt</value>
+  </word>
+  <word use="true">
+    <key>short</key>
+    <value>shrt</value>
+  </word>
+  <word use="true">
+    <key>height</key>
+    <value>ht</value>
+  </word>
+  <word use="true">
+    <key>length</key>
+    <value>len</value>
+  </word>
+  <word use="true">
+    <key>straight</key>
+    <value>str8</value>
+  </word>
+  <word use="true">
+    <key>forward</key>
+    <value>fwd</value>
+  </word>
+  <word use="true">
+    <key>reverse</key>
+    <value>rvrs</value>
+  </word>
+  <word use="true">
+    <key>reject</key>
+    <value>rjct</value>
+  </word>
+  <word use="true">
+    <key>text</key>
+    <value>txt</value>
+  </word>
+  <word use="true">
+    <key>compress</key>
+    <value>cmprs</value>
+  </word>
+  <word use="true">
+    <key>compressor</key>
+    <value>cmprsor</value>
+  </word>
+  <word use="true">
+    <key>compressed</key>
+    <value>cmprsd</value>
+  </word>
+  <word use="true">
+    <key>express</key>
+    <value>xprs</value>
+  </word>
+  <word use="true">
+    <key>expressed</key>
+    <value>xprsd</value>
+  </word>
+  <word use="true">
+    <key>experience</key>
+    <value>xprnce</value>
+  </word>
+  <word use="true">
+    <key>comment</key>
+    <value>cmnt</value>
+  </word>
+  <word use="true">
+    <key>change</key>
+    <value>chng</value>
+  </word>
+    <word use="true">
+    <key>changes</key>
+    <value>chngs</value>
+  </word>
+    <word use="true">
+    <key>changing</key>
+    <value>chngng</value>
+  </word>
+    <word use="true">
+    <key>changed</key>
+    <value>chngd</value>
+  </word>
+  <word use="true">
+    <key>start</key>
+    <value>strt</value>
+  </word>
+  <word use="true">
+    <key>starts</key>
+    <value>strts</value>
+  </word>
+  <word use="true">
+    <key>started</key>
+    <value>strtd</value>
+  </word>
+  <word use="true">
+    <key>check</key>
+    <value>chk</value>
+  </word>
+  <word use="true">
+    <key>checks</key>
+    <value>chks</value>
+  </word>
+  <word use="true">
+    <key>checked</key>
+    <value>chkd</value>
+  </word>
+  <word use="true">
+    <key>checking</key>
+    <value>chkng</value>
+  </word>
+  <word use="true">
+    <key>nice</key>
+    <value>nyc</value>
+  </word>
+  <word use="true">
+    <key>next</key>
+    <value>nxt</value>
+  </word>
+    <word use="true">
+    <key>engineer</key>
+    <value>engr</value>
+  </word>
+  <word use="true">
+    <key>engineering</key>
+    <value>engg</value>
+  </word>
+  <word use="true">
+    <key>timepass</key>
+    <value>tp</value>
+  </word>
+  <word use="true">
+    <key>after</key>
+    <value>aftr</value>
+  </word>
+  <word use="true">
+    <key>afterwards</key>
+    <value>aftrwrds</value>
+  </word>
+  <word use="true">
+    <key>towards</key>
+    <value>2wrds</value>
+  </word>
+  <word use="true">
+    <key>hate</key>
+    <value>h8</value>
+  </word>
+  <word use="true">
+    <key>birthday</key>
+    <value>bday</value>
+  </word>
+  <word use="true">
+    <key>better</key>
+    <value>btr</value>
+  </word>
+  <word use="true">
+    <key>give</key>
+    <value>giv</value>
+  </word>
+  <word use="true">
+    <key>people</key>
+    <value>ppl</value>
+  </word>
+  <word use="true">
+    <key>during</key>
+    <value>durin</value>
+  </word>
+  <word use="true">
+    <key>building</key>
+    <value>bldg</value>
+  </word>
+  <word use="true">
+    <key>show</key>
+    <value>shw</value>
+  </word>
+  <word use="true">
+    <key>special</key>
+    <value>spcl</value>
+  </word>
+  <word use="true">
+    <key>work</key>
+    <value>wrk</value>
+  </word>
+  <word use="true">
+    <key>attention</key>
+    <value>attn</value>
+  </word>
+  <word use="true">
+    <key>move</key>
+    <value>muv</value>
+  </word>
+  <word use="true">
+    <key>action</key>
+    <value>actn</value>
+  </word>
+  <word use="true">
+    <key>was</key>
+    <value>ws</value>
+  </word>
+  <word use="true">
+    <key>just</key>
+    <value>jst</value>
+  </word>
+  <word use="true">
+    <key>then</key>
+    <value>thn</value>
+  </word>
+  <word use="true">
+    <key>than</key>
+    <value>thn</value>
+  </word>
+  <word use="true">
+    <key>monday</key>
+    <value>Mon</value>
+  </word>
+  <word use="true">
+    <key>tuesday</key>
+    <value>Tue</value>
+  </word>
+  <word use="true">
+    <key>wednesday</key>
+    <value>Wed</value>
+  </word>
+  <word use="true">
+    <key>thursday</key>
+    <value>Thu</value>
+  </word>
+  <word use="true">
+    <key>friday</key>
+    <value>Fri</value>
+  </word>
+  <word use="true">
+    <key>saturday</key>
+    <value>Sat</value>
+  </word>
+  <word use="true">
+    <key>sunday</key>
+    <value>Sun</value>
+  </word>
+  <word use="true">
+    <key>january</key>
+    <value>Jan</value>
+  </word>
+  <word use="true">
+    <key>february</key>
+    <value>Feb</value>
+  </word>
+  <word use="true">
+    <key>march</key>
+    <value>Mar</value>
+  </word>
+  <word use="true">
+    <key>april</key>
+    <value>Apr</value>
+  </word>
+  <word use="true">
+    <key>june</key>
+    <value>Jun</value>
+  </word>
+  <word use="true">
+    <key>july</key>
+    <value>Jul</value>
+  </word>
+  <word use="true">
+    <key>august</key>
+    <value>Aug</value>
+  </word>
+  <word use="true">
+    <key>september</key>
+    <value>Sep</value>
+  </word>
+  <word use="true">
+    <key>october</key>
+    <value>Oct</value>
+  </word>
+  <word use="true">
+    <key>november</key>
+    <value>Nov</value>
+  </word>
+  <word use="true">
+    <key>december</key>
+    <value>Dec</value>
+  </word>
+</WordList>

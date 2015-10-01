@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Type your message, words would be converted as you type based on the word list:</string>
+    <string name="app_name">Text Compressor</string>
+    <string name="send">Send</string>
+    <string name="Clipboard">Copy</string>
+    <string name="wordliststring">Word List</string>
+    <string name="addnewwordstring">Add New Word</string>
+    <string name="deletewordtitle">Deletion Confirmation.</string>
+
+</resources>

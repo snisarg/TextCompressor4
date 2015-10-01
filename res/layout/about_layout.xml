@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Text Compressor takes your standard english words and converts them to the SMS lingo or Txtspk on the fly."
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="This app is useful for those who like to use predictive keyboards and auto-conversions but hate that their messages are just too long, or find the normal language to be just too uncool. "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Conversion of words are handled by the word list. Go to the 'See words' menu to see, disable or add new word conversion."
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>
